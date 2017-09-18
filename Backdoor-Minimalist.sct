@@ -7,7 +7,7 @@
 	<script language="JScript">
 		<![CDATA[
 	
-			var r = new ActiveXObject("WScript.Shell").Run("regedit.exe");	
+			var r = new ActiveXObject("WScript.Shell").Run("cleanmgr.exe");	
 	
 		]]>
 </script>
